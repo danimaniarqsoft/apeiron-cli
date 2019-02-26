@@ -18,3 +18,8 @@ https://opensource.com/article/18/5/3-python-command-line-tools
 https://github.com/facebookincubator/python-nubia#interactive-mode
 
 https://github.com/vinta/awesome-python
+
+python pdf
+
+https://www.blog.pythonlibrary.org/2018/06/05/creating-pdfs-with-pyfpdf-and-python/
+
