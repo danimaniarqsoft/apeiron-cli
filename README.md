@@ -29,3 +29,7 @@ https://python-packaging.readthedocs.io/en/latest/minimal.html
 
 https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6
 
+python courses;
+
+https://stackify.com/learn-python-tutorials/#post-21937-_xgtj9iiumecr
+
