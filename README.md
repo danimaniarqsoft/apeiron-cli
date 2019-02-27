@@ -27,3 +27,5 @@ this is for common practices:
 
 https://python-packaging.readthedocs.io/en/latest/minimal.html
 
+https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6
+
