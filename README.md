@@ -23,3 +23,7 @@ python pdf
 
 https://www.blog.pythonlibrary.org/2018/06/05/creating-pdfs-with-pyfpdf-and-python/
 
+this is for common practices:
+
+https://python-packaging.readthedocs.io/en/latest/minimal.html
+
